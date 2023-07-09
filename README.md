@@ -16,6 +16,7 @@ Vamos usar os seguintes:
 - Git checkout;
 - Git diff.
 
-Todos os testes serão destinados a utilização dos comandos, não importando muito o código que estou colocando!
-
-Isso quer dizer que podemos ter uma página de script que não realize muita coisa no sistema, também um arquivo CSS que modifique uma ou duas coisas na minha página.
+>Observação:
+>
+>Todos os testes serão destinados a utilização dos comandos, não importando muito o código!
+>Isso quer dizer que podemos ter um arquivo de script ou um arquivo CSS que modifique uma ou duas coisas no sistema.
